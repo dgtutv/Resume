@@ -1,0 +1,9 @@
+html{
+    padding: 0 24vw 0 24vw;
+    background-color: rgb(114, 114, 114);
+}
+body{
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    min-height: 100vh;
+}
